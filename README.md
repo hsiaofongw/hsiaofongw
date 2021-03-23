@@ -7,19 +7,23 @@
 
 ## My Blog
 
-is separately implemented in serveral distributed packages and mostly hosted on Vercel, what mostly noticeable among them are:
+is separately implemented in serveral distributed packages (a.k.a. subsystems, services), and most of those are hosted on Vercel. 
+
+What mostly noticeable among them (the subsystems) are:
 
 - [blog-ng-nextjs](https://github.com/hsiaofongw/blog-ng-nextjs), the front-end, the index page and the directory pages;
 - [blog-data-nextjs](https://github.com/hsiaofongw/blog-data-nextjs), the Content Management System (CMS) built by myself, it mainly serves JSON and some of my uploaded PDF files.
 - [markdown-blog](https://github.com/hsiaofongw/markdown-blog), hosting my Markdown files, rendering them into ReactElements before there is a request.
 
-Above packages, and other packages that my blog is consisted of, are basicly based on Next.js, React, and TypeScript.
+These packages, and other packages that my blog is consisted of, are basicly based on Next.js, React, and TypeScript.
 
 I also built my Email service serving RESTful API, togethered with another telemetry service that I build for monitoring services availibility.
 
 There is also a comment service in my blog, which is based on Next.js (front-end), Nest.js and MongoDB (back-end), due to that it is still lack of maturity, I choose not to make it open.
 
-I feel good from what I am doing, i.e. building my blog part by part, since all of its subsystems are written in TypeScript, so that the behaviours of the whole system can be clearly model. 
+I feel good from what I am doing, i.e. building my blog part by part, since all of its subsystems are written in TypeScript, so that the behaviours of the whole system can be clearly model, and with the help of TypeScript's powerful features on expressing types also the interfaces, We are now be able to easily make them work together.
+
+Rather than say my blog is a big and intact whole, I would prefer to say that my blog is in forms of many small independent units, which I call them subsystems. More accurately speaking, it is three and more small units work together to serve as a blog to the outside, rather than one intact whole serves three and more functions simultaneously.
 
 ## What I am learning
 
