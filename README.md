@@ -7,7 +7,7 @@
 
 ## My Blog
 
-is separately implemented in serveral distributed package and mostly hosted on Vercel, what mostly noticeable among them are:
+is separately implemented in serveral distributed packages and mostly hosted on Vercel, what mostly noticeable among them are:
 
 - [blog-ng-nextjs](https://github.com/hsiaofongw/blog-ng-nextjs), the front-end, the index page and the directory pages;
 - [blog-data-nextjs](https://github.com/hsiaofongw/blog-data-nextjs), the Content Management System (CMS) built by myself, it mainly serves JSON and some of my uploaded PDF files.
