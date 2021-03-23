@@ -17,9 +17,9 @@ Above packages, and other packages that my blog is consisted of, are basicly bas
 
 I also built my Email service in forms of RESTful API, which together with another telemetry service that I build for monitoring my blog services status, cooperated to serve as the telemetry section of my blog system.
 
-There is also a comment subsystem in my blog, it is based on Next.js (front-end) and Nest.js and MongoDB (back-end), due to its matureless, I do not make it public yet.
+There is also a comment subsystem in my blog, it is based on Next.js (front-end) and Nest.js and MongoDB (back-end), due to that it is still lack of maturity, therefore I choose to not make it public yet.
 
-Honestly speaking, I am feelling satisfied from doing what I am doing, i.e. building my blog, since it is driven by code, or more precisely speaking: it it driven by TypeScript Code, that means the behaviour(s) of my blog system can be clearly describe in (TypeScript) code(s). Simply put, it looks like a goldfish bowl.
+I am feelling satisfied from what I am doing, i.e. building my blog, since it is driven by TypeScript code, that means its behaviours can be clearly describe and well defined. Simply put, it looks like a goldfish bowl.
 
 ## What I am learning
 
