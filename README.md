@@ -26,3 +26,9 @@ Honestly speaking, I am feelling satisfied from doing what I am doing, i.e. buil
 - TypeScript, MongoDB, React, Nest.js, Next.js. I belived that someday I will be capable of bulding amazing things from those technologies.
 
 - Recommendation system, Recurrent Neural Network. For my thesis.
+
+## What I will doing
+
+Just implement rest parts that is said to be necessary or important for a properly functional and intact blog system.
+
+What I choose to do it myself but not by just pick the matured solutions like hugo, hexo, wordpress? Because by do it myself, the things I build are at least clear to me, the internal mechanism of every subsystem is visible and understandable to all. A programmable, scalable, flexible, resilient and clearly structural blog system is appealing to me. I will keep working on building every part and every sub-system that it should consist.
