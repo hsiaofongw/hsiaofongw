@@ -11,7 +11,7 @@ is separately implemented in serveral distributed packages and mostly hosted on 
 
 - [blog-ng-nextjs](https://github.com/hsiaofongw/blog-ng-nextjs), the front-end, the index page and the directory pages;
 - [blog-data-nextjs](https://github.com/hsiaofongw/blog-data-nextjs), the Content Management System (CMS) built by myself, it mainly serves JSON and some of my uploaded PDF files.
-- [markdown-blog](https://github.com/hsiaofongw/markdown-blog), hosting my Markdown files, rendering my Markdown files to HTML (or ReactElement(s) more precisely).
+- [markdown-blog](https://github.com/hsiaofongw/markdown-blog), hosting my Markdown files, rendering them into ReactElements before there is a request.
 
 Above packages, and other packages that my blog is consisted of, are basicly based on Next.js, React, and TypeScript.
 
