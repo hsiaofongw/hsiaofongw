@@ -21,7 +21,7 @@ I also built my Email service serving RESTful API, togethered with another telem
 
 There is also a comment service in my blog, which is based on Next.js (front-end), Nest.js and MongoDB (back-end), due to that it is still lack of maturity, I choose not to make it open.
 
-I feel good from what I am doing, i.e. building my blog part by part, since all of its subsystems are written in TypeScript, so that the behaviours of the whole system can be clearly model, and with the help of TypeScript's powerful features on expressing types also the interfaces, We are now be able to easily make them work together.
+I feel good from what I am doing, i.e. building my blog part by part, since all of its subsystems are written in TypeScript, so that the behaviours of the entire system can be clearly model, and with the help of TypeScript's powerful features on expressing types also the interfaces, We are now be able to easily make them work together.
 
 Rather than say my blog is a big and intact whole, I would prefer to say that my blog is in forms of many small independent units, which I call them subsystems. More accurately speaking, it is three and more small units work together to serve as a blog to the outside, rather than one intact whole serves three and more functions simultaneously.
 
