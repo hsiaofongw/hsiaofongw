@@ -17,13 +17,13 @@ What mostly noticeable among them (the subsystems) are:
 
 These packages, and other packages that my blog is consisted of, are basicly based on Next.js, React, and TypeScript.
 
-I also built my Email service serving RESTful API, togethered with another telemetry service that I build for monitoring services availibility.
+I also built my Email service, which togethered with another telemetry service I build, implemented services monitoring.
 
 There is also a comment service in my blog, which is based on Next.js (front-end), Nest.js and MongoDB (back-end), due to that it is still lack of maturity, I choose not to make it open.
 
-I feel good from what I am doing, i.e. building my blog part by part, since all of its subsystems are written in TypeScript, so that the behaviours of the entire system can be clearly model, and with the help of TypeScript's powerful features on expressing types also the interfaces, We are now be able to easily make them work together.
+Write every part of this blog in TypeScript, enables the behaviours of the entire system can be clearly model and defined. With the help of TypeScript's powerful features on typing, We now can easily make them work together cohesively and harmoniously.
 
-Rather than say my blog is a big and intact whole, I would prefer to say that my blog is in forms of many small independent units, which I call them subsystems. More accurately speaking, it is three and more small units work together to serve as a blog to the outside, rather than one intact whole serves three and more functions simultaneously.
+Rather to say my blog is a big and intact whole, I prefer to say that my blog is in forms of many small independent subsystems. It is several small units integrated to perform as a blog to the outside, rather than one intact one serves several functions.
 
 ## What I am learning
 
