@@ -11,9 +11,9 @@ is separately implemented in serveral distributed packages (a.k.a. subsystems, s
 
 What mostly noticeable among them (the subsystems) are:
 
-- [blog-ng-nextjs](https://github.com/hsiaofongw/blog-ng-nextjs), the front-end, the index page and the directory pages;
-- [blog-data-nextjs](https://github.com/hsiaofongw/blog-data-nextjs), the Content Management System (CMS) built by myself, it mainly serves JSON and some of my uploaded PDF files.
-- [markdown-blog](https://github.com/hsiaofongw/markdown-blog), hosting my Markdown files, rendering them into ReactElements before there is a request.
+- [blog-ng-nextjs](https://github.com/hsiaofongw/blog-ng-nextjs), front-end, index page, directory pages, and comments page.
+- [blog-data-nextjs](https://github.com/hsiaofongw/blog-data-nextjs), the Content Management System (CMS) built by myself, it mainly serves JSON and some of my uploaded PDF files, and takes care of dynamic URL rewriting.
+- [markdown-blog](https://github.com/hsiaofongw/markdown-blog), hosting Markdown files, rendering them into ReactElements before there is a request.
 
 These packages, and other packages that my blog is consisted of, are basicly based on Next.js, React, and TypeScript.
 
