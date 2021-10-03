@@ -1,3 +1,10 @@
-现时，我正基于 Angular 和 Nest.js 重新打造我的个人博客项目。
+当前学习方向：
 
-I am opinionated when coding, hence I enjoy opinionated frameworks like Angular or NestJS.
+- CI/CD
+- DevOps
+- OAuth
+- Angular
+- CSS
+- 操作系统
+- 编译原理
+- TypeScript
