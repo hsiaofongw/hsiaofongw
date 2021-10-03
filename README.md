@@ -1,5 +1,6 @@
 当前学习方向：
 
+- 数据可视化(基于Web端)
 - CI/CD
 - DevOps
 - OAuth
