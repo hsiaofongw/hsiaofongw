@@ -1,5 +1,5 @@
-If you are so clear in what the desired state should look like, then things, as well as coding, would definitely going to be easy.
+Just clearly describe the *desired state* before try solving it.
 
-如果你非常非常明确自己想要什么，那么去达成这个目标的过程就将会是容易的。
+高效解决问题的第一步是精确描述「理想状态」(desired state).
 
 [See this](https://github.com/hsiaofongw/expression-evaluator)
