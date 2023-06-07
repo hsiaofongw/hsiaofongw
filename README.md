@@ -1,4 +1,4 @@
-It takes a clear description about the *desired state* to solve a problem.
+A clear description about the *desired state* of the problem itself must be made before ever trying to solve it.
 
 高效解决问题的第一步是精确描述「理想状态」(desired state).
 
